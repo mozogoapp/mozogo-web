@@ -1,6 +1,6 @@
 {
-    "name": "mozogo",
-    "short_name": "mozogo",
+    "name": "mozogoweb",
+    "short_name": "mozogoweb",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
